@@ -23,3 +23,8 @@ Greater/smaller hints
 Attempt counter
 Invalid input checking
 Conditional statements and loops
+
+## Play the Game
+
+You can play the game here:
+[Play Number Guessing Game on Scratch](https://scratch.mit.edu/projects/1374702018)
